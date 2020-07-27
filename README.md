@@ -2,6 +2,7 @@
 
 - User still can send join request after sending request or already joined
 - event page didn't show loading
+- at cca page sometimes listOfAttendess is undefined
 
 # KECCA
 
